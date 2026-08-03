@@ -3,6 +3,15 @@
     <channel>
         <title>MacBridge</title>
         <item>
+            <title>0.1.28</title>
+            <pubDate>Mon, 03 Aug 2026 10:38:11 -0500</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.28.zip" length="1790063" type="application/octet-stream" sparkle:edSignature="e8oEnc153fpYIhZdHvY0Cm2kW5fm2CAEvHXggg1YqB5doHcxnYtWTtw4Ep/+NdKStYhByLx6BCjuj6IPq/gWAA=="/>
+        </item>
+        <item>
             <title>0.1.27</title>
             <pubDate>Mon, 03 Aug 2026 10:01:51 -0500</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.26.zip" length="1776564" type="application/octet-stream" sparkle:edSignature="iHdf2vZUByfpIet7DX7iNIMpLLCGWFYx+SdJKllmWJr30F0tWivVrBVUTr3QscLTHAtTRlhne9Ee50e28EHADg=="/>
-        </item>
-        <item>
-            <title>0.1.25</title>
-            <pubDate>Fri, 31 Jul 2026 10:08:23 -0500</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.25.zip" length="1776570" type="application/octet-stream" sparkle:edSignature="Fv3jdUbrDv3MIIZ22EZsa5QKbc43rNexa1+a+ykVAvsaoUMQOG2FSRyM+pJ82Rji990NCbaj89oiYvjq77qvDQ=="/>
         </item>
     </channel>
 </rss>
