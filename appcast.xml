@@ -1,7 +1,17 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MacBridge</title>
+        <item>
+            <title>0.1.39</title>
+            <pubDate>Tue, 04 Aug 2026 20:45:58 -0500</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.39.zip" length="1828598" type="application/octet-stream" sparkle:edSignature="CIx6VoqwCa7sVUkxQvHRnwqpyphsvD8UpWG7/+u/SrV8F2Ona2OwzuFrF3YlRvY1cgK+p504/5iMjvCbCt0zCA=="></enclosure>
+        </item>
         <item>
             <title>0.1.38</title>
             <pubDate>Tue, 04 Aug 2026 19:34:46 -0500</pubDate>
@@ -9,7 +19,7 @@
             <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.38.zip" length="1824716" type="application/octet-stream" sparkle:edSignature="Y+JKttGrhKDyhre2PHmgX6uJ4BBUK0wgQibpJ9gsrxz7OD7rn+CtQbIYL9NC88XwLY+VU5m1kWSxX7YTquxfAw=="/>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.38.zip" length="1824716" type="application/octet-stream" sparkle:edSignature="Y+JKttGrhKDyhre2PHmgX6uJ4BBUK0wgQibpJ9gsrxz7OD7rn+CtQbIYL9NC88XwLY+VU5m1kWSxX7YTquxfAw=="></enclosure>
         </item>
         <item>
             <title>0.1.37</title>
@@ -18,16 +28,10 @@
             <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.37.zip" length="1822473" type="application/octet-stream" sparkle:edSignature="A1fHg2iSxV/z2S3Ta5X9vi5k43CV7YCyJKZ+vdzRdpzv7CMZXcH5FBnq5o/j+NAc6KsZzHCD1hwI/GLEiAKcCQ=="/>
-        </item>
-        <item>
-            <title>0.1.36</title>
-            <pubDate>Tue, 04 Aug 2026 17:46:04 -0500</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.36.zip" length="1821856" type="application/octet-stream" sparkle:edSignature="fkX3oM4owMfchGjJZUCsVpcfSfhIBVMLgSLTx8SPT4bMYtjHtZtbPD3BrSjk8VvidnNfb51iIDTeSxteip2iAw=="/>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.37.zip" length="1822473" type="application/octet-stream" sparkle:edSignature="A1fHg2iSxV/z2S3Ta5X9vi5k43CV7YCyJKZ+vdzRdpzv7CMZXcH5FBnq5o/j+NAc6KsZzHCD1hwI/GLEiAKcCQ=="></enclosure>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: M2kcO8SKK0E3T+yf2+jHDhiwwUIwi1WsUxti5mpFtBpg8rL5CwPLdkcG+Lp8kzim267VRIiKFvRgJniN5SUtDQ==
+length: 2554
+-->
