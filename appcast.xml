@@ -1,8 +1,19 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MacBridge</title>
+        <item>
+            <title>0.1.40</title>
+            <pubDate>Wed, 05 Aug 2026 07:32:02 -0500</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.40.zip" length="1833138" type="application/octet-stream" sparkle:edSignature="gcJw931WHa7t+72nSwNAHJ4N5w+pGSZcX1dX+oa/oshNuUAQPhO0TnrnoCJM5uTdifzHZL2fBLsU8NpzSllDAA=="/>
+        </item>
         <item>
             <title>0.1.39</title>
             <pubDate>Tue, 04 Aug 2026 20:45:58 -0500</pubDate>
@@ -10,7 +21,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.39.zip" length="1828598" type="application/octet-stream" sparkle:edSignature="CIx6VoqwCa7sVUkxQvHRnwqpyphsvD8UpWG7/+u/SrV8F2Ona2OwzuFrF3YlRvY1cgK+p504/5iMjvCbCt0zCA=="></enclosure>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.39.zip" length="1828598" type="application/octet-stream" sparkle:edSignature="CIx6VoqwCa7sVUkxQvHRnwqpyphsvD8UpWG7/+u/SrV8F2Ona2OwzuFrF3YlRvY1cgK+p504/5iMjvCbCt0zCA=="/>
         </item>
         <item>
             <title>0.1.38</title>
@@ -19,19 +30,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.38.zip" length="1824716" type="application/octet-stream" sparkle:edSignature="Y+JKttGrhKDyhre2PHmgX6uJ4BBUK0wgQibpJ9gsrxz7OD7rn+CtQbIYL9NC88XwLY+VU5m1kWSxX7YTquxfAw=="></enclosure>
-        </item>
-        <item>
-            <title>0.1.37</title>
-            <pubDate>Tue, 04 Aug 2026 19:06:02 -0500</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.37.zip" length="1822473" type="application/octet-stream" sparkle:edSignature="A1fHg2iSxV/z2S3Ta5X9vi5k43CV7YCyJKZ+vdzRdpzv7CMZXcH5FBnq5o/j+NAc6KsZzHCD1hwI/GLEiAKcCQ=="></enclosure>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.38.zip" length="1824716" type="application/octet-stream" sparkle:edSignature="Y+JKttGrhKDyhre2PHmgX6uJ4BBUK0wgQibpJ9gsrxz7OD7rn+CtQbIYL9NC88XwLY+VU5m1kWSxX7YTquxfAw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: M2kcO8SKK0E3T+yf2+jHDhiwwUIwi1WsUxti5mpFtBpg8rL5CwPLdkcG+Lp8kzim267VRIiKFvRgJniN5SUtDQ==
-length: 2554
+</rss>
+<!-- sparkle-signatures:
+edSignature: JUJCimj+obstf1VUXFrN1W/TuQDbxtRZoBrf6v0ClODo+wL0NQfHmjLrdNTJYN1cWhRWAEOYNw1wZc20S7xRAA==
+length: 2524
 -->
