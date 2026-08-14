@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MacBridge</title>
         <item>
+            <title>0.1.58</title>
+            <pubDate>Fri, 14 Aug 2026 14:38:59 -0500</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.1.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.58.zip" length="1789675" type="application/octet-stream" sparkle:edSignature="TaJbqmgOuHNA2bhebbnfJ42iPISJqTP5j0q/VWItmD+jDeI/6Gu03DL6I7CRWgp4LNnsBHVNtFb+AoHbgCF/CQ=="/>
+        </item>
+        <item>
             <title>0.1.57</title>
             <pubDate>Thu, 13 Aug 2026 13:56:25 -0500</pubDate>
             <sparkle:version>65</sparkle:version>
@@ -26,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: s/wYVWKfPbuRnM79ZfrTCaxrq5cSVZYu1Qb6uvhcq/4LW/U/4CAYMyjpnoJg7imhq5tbRsyZy5UzEbmJBzV1CQ==
-length: 1827
+edSignature: Hg24wW8y8wMfjORcIGhp4B/uhATZ6MnAdcc1MmIA644eu554g3u+6DX3zvt93ibMGz28xxb1Sg4gs1+i+bE5Bg==
+length: 2524
 -->
