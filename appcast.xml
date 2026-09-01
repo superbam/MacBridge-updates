@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MacBridge</title>
         <item>
+            <title>0.1.73</title>
+            <pubDate>Tue, 01 Sep 2026 14:08:28 -0500</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>0.1.73</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.73.zip" length="1820038" type="application/octet-stream" sparkle:edSignature="SaXCWs4OTpOON9JgJ878paBFVo0V8PQVEdvfbtIhIblNNtnZi/3yE37IX53na8x9FuO+PCcePJof4q06LgTUAA=="/>
+        </item>
+        <item>
             <title>0.1.72</title>
             <pubDate>Tue, 01 Sep 2026 12:06:18 -0500</pubDate>
             <sparkle:version>81</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.71.zip" length="1809510" type="application/octet-stream" sparkle:edSignature="p7rES0E6GXaq9mSmzaCyyrjadw1XZwHshxjA56Y76vlLYW4Kg3mQd4/236H96LRMtY21D3CilFYLtXlzvq96Bg=="/>
         </item>
-        <item>
-            <title>0.1.70</title>
-            <pubDate>Tue, 25 Aug 2026 12:21:37 -0500</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>0.1.70</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.1.70.zip" length="1808551" type="application/octet-stream" sparkle:edSignature="b/F4IKNIoH2v42nN1AjY0ZXncqOzgwtGKQm5mSQpNm24RInOh/6zSRQCNqSfbLpLJPAJPfwbTa5lICS1ElLwAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PJRRI6jVOtoRWLVJQuO2HGe0iPL+f7tZ1OwuvP6k9LC5gG+X2Z05KDkgVsQP2iPP77QIigijyg8rRv40OHlGCA==
+edSignature: OmEnzqlvIDAp1FiISCAwIbEwfSb6I8I7nbZPvcA+wKUINi7iBxGmky3FaqxBDr4nrXwu3p5UnD3HD8a9KMQ2Ag==
 length: 2524
 -->
