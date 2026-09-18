@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MacBridge</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 18 Sep 2026 14:16:41 -0500</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.2.zip" length="1844079" type="application/octet-stream" sparkle:edSignature="l7tCq/cv+V18dn97WIEzZA5Uwaub6ZLx2cmYpvNPR4OZK/azMO2wU4y7LSaW8e/+VcjStS9ALXWT/Wno1guTCg=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Wed, 16 Sep 2026 13:53:56 -0500</pubDate>
             <sparkle:version>90</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.1.zip" length="1846294" type="application/octet-stream" sparkle:edSignature="e6gnUzJcT3g9fKPtEvp+/zyslpF6Y8eAUXVt/0wjC1tvv/0uJPtT6bUtZ2u+sfGyfl4KSxd4TXWyhC/b4kxBAw=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Fri, 11 Sep 2026 11:36:18 -0500</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.0.zip" length="1847635" type="application/octet-stream" sparkle:edSignature="uABUMCX6qLk22RBtOAINdI+m3RcP2+DwALE0tj6MoZRMQgpx9CMyCl83kIG8q1+7wEI93hWt+HLXxHHX2DOeBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7lO/kiM/PPQB253qeQkFeTvpc4knijixs23LxqPxzf9yFNM971h2QCCeHkPmyo9ia/vZxRyUZdfo2bveMu0eBg==
+edSignature: 3RCOMuFt2yOAmKz8KXpGXj3GXJcZFFuK6TpLnzoNLcxinPXJiVMAwvw6W1G74EUmtfVNgXww6WZbBMbVQQdKAw==
 length: 2515
 -->
