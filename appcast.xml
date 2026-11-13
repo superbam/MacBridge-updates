@@ -1,40 +1,19 @@
-<?xml version="1.0" standalone="yes"?>
-<!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
--->
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MacBridge</title>
         <item>
-            <title>0.2.6</title>
-            <pubDate>Fri, 25 Sep 2026 08:33:16 -0500</pubDate>
-            <sparkle:version>95</sparkle:version>
-            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <title>0.2.7</title>
+            <pubDate>Fri, 13 Nov 2026 13:18:01 -0600</pubDate>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.6.zip" length="1852612" type="application/octet-stream" sparkle:edSignature="kV2w5m+8FvvzUZwouTtWRvOFoh7Cfp/Zbh8Ieldpc8CWt0D3XxrCSKivXTpDBCP3T41Fn4OBZV69TQ8rPzR4Cg=="/>
-        </item>
-        <item>
-            <title>0.2.5</title>
-            <pubDate>Mon, 21 Sep 2026 12:06:25 -0500</pubDate>
-            <sparkle:version>94</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.5.zip" length="1849579" type="application/octet-stream" sparkle:edSignature="l4kTsVfl+8e4oEnVQoGn3KwNYoi//3uqcRVTMiK6700RS7ErSWePtldLUuEhdbLKJpu10ZST7GSlR4uQjOEUCA=="/>
-        </item>
-        <item>
-            <title>0.2.4</title>
-            <pubDate>Fri, 18 Sep 2026 17:18:01 -0500</pubDate>
-            <sparkle:version>93</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.4.zip" length="1847103" type="application/octet-stream" sparkle:edSignature="XGSf74gBIWeC4N/LQDU4RxQSQw6ZOcqmXevajpyCZaac2bYdzn7btSV38F5iJndDbANYJL+0YXIhKawVmRE9CA=="/>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.7.zip" length="1851559" type="application/octet-stream" sparkle:edSignature="9hcxV+gBF99VAUGsxlS4fvCnVpuobUPK7HW47iU3Ji8KD8Qmum60LUKhIopRG5AjgKTOpthUfsdQpby9+CA5Bw=="></enclosure>
         </item>
     </channel>
-</rss>
-<!-- sparkle-signatures:
-edSignature: ByTV20tLa3A58PsICELPD2u2FOTlVep5660bjSYDkU4PMKs9/KnLjlIZouKsDIK0mMDjN5YgDtKJFEp2Iq5IAg==
-length: 2515
+</rss><!-- sparkle-signatures:
+edSignature: lbJi65wzrelPi1zIKrWcnME6yuoUwpmMcp2fQ4CMx0UQHGQ48qPu5JauaI47aB5AFmr+p8GFuBanXKiYNXRiCQ==
+length: 1135
 -->
