@@ -1,19 +1,22 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MacBridge</title>
         <item>
             <title>0.2.7</title>
             <pubDate>Fri, 13 Nov 2026 13:18:01 -0600</pubDate>
             <sparkle:version>96</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.7.zip" length="1851559" type="application/octet-stream" sparkle:edSignature="9hcxV+gBF99VAUGsxlS4fvCnVpuobUPK7HW47iU3Ji8KD8Qmum60LUKhIopRG5AjgKTOpthUfsdQpby9+CA5Bw=="></enclosure>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.8.zip" length="1909354" type="application/octet-stream"/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: lbJi65wzrelPi1zIKrWcnME6yuoUwpmMcp2fQ4CMx0UQHGQ48qPu5JauaI47aB5AFmr+p8GFuBanXKiYNXRiCQ==
-length: 1135
+</rss>
+<!-- sparkle-signatures:
+edSignature: TbQB/INd65lvzbpBjPhpdVJNk41mgUB9/E90v9/mjqDOS+VrWi0gCJzoP0Vt0A8c3lv8l56TJsvrlXoDBjH0DQ==
+length: 1016
 -->
