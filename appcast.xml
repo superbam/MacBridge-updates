@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MacBridge</title>
         <item>
+            <title>0.2.10</title>
+            <pubDate>Mon, 23 Nov 2026 11:44:40 -0600</pubDate>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/superbam/MacBridge-updates/releases/download/artifacts/MacBridge-0.2.10.zip" length="1921065" type="application/octet-stream" sparkle:edSignature="ldTX/6Rq+QPCCGynzoKTXW2uowsAPjQ/PGUtOtqci5wO+SmnicDhXC1XcjDoCIMonovoxAQXfF1l/bEpVSRIBA=="/>
+        </item>
+        <item>
             <title>0.2.9</title>
             <pubDate>Wed, 18 Nov 2026 13:37:18 -0600</pubDate>
             <sparkle:version>98</sparkle:version>
@@ -26,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: BxVXMouvLthKoSKgrmcihXQQIl9KGdpqnrRWwKK3lLu2A72DNOqaTr+zCYSzNaEvVeAE8AfpKp7KtyayjAkEDw==
-length: 1821
+edSignature: Ngl9esPGkKInqvwWbj1yqvYYeW4cpyD7Om9Nf8650Kuzjx/uvK1zFeGmA7CBXv/1IBDh8XilSW//jjAqkQpBBg==
+length: 2518
 -->
